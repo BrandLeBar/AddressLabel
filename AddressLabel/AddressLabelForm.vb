@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2025
 'Address Label Program
-'
+'https://github.com/BrandLeBar/AddressLabel.git
 
 Option Compare Text
 Option Explicit On
